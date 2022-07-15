@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CreatingMovieWebServiceWithReactJS/static/js/main.e8b26e05.js",
+    "main.js": "/CreatingMovieWebServiceWithReactJS/static/js/main.af497846.js",
     "index.html": "/CreatingMovieWebServiceWithReactJS/index.html",
-    "main.e8b26e05.js.map": "/CreatingMovieWebServiceWithReactJS/static/js/main.e8b26e05.js.map"
+    "main.af497846.js.map": "/CreatingMovieWebServiceWithReactJS/static/js/main.af497846.js.map"
   },
   "entrypoints": [
-    "static/js/main.e8b26e05.js"
+    "static/js/main.af497846.js"
   ]
 }
